@@ -1,0 +1,10 @@
+* mgl
+
+Common Lisp machine learning library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melisgl/mgl.git   |
+| commit  | 46d4794  |
+| systems | mgl |
+|---------+-------------------------------------------|
+
