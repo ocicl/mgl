@@ -4,6 +4,6 @@ Common Lisp machine learning library.
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/melisgl/mgl.git |
-| commit  | c6e708a                                |
+| commit  | 2995d1a                                |
 | systems | mgl                                    |
 |---------+----------------------------------------|
